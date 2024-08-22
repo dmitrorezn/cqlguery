@@ -1,4 +1,4 @@
-module github.com/dmitrorezn/cqlconn
+module github.com/dmitrorezn/cqlquery
 
 go 1.22.5
 
